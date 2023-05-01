@@ -1,0 +1,18 @@
+.navcontainer {
+    display: flex;
+    justify-content: space-between !important;
+    width: 80%;
+    font-family: 'Hanalei Fill', cursive;
+
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.brand {
+ color: rgb(36, 102, 163);
+ text-align: right end;
+
+}

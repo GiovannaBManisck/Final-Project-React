@@ -1,0 +1,33 @@
+
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   /* color: rgb(105, 87, 174); */
+   align-items: space-between;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+
+
+.card-picture {
+ color:aquamarine
+}
+
+
+
+
+.about-container {
+    text-align: left;
+    float: left;
+    margin-right: 15px;
+    
+} 
+
+.text-container {
+    text-align: right;
+    float: right;
+    margin-right: 15px;
+}
+
+
